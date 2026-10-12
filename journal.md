@@ -139,6 +139,8 @@ tank.off()
 
 
 Найменший показ: 140.2 (запуск 20) Найбільший: 190.4 (запуск 1) — 
+<img width="679" height="430" alt="grafik" src="https://github.com/user-attachments/assets/58207018-1be9-420c-b60a-699294154e96" />
+
 
 ---
 
