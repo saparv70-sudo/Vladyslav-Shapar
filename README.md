@@ -70,9 +70,9 @@ rob-2026/
 - [ ] ⭐ **картка варіанта підписана** → `kartka/`
 - [ ] `praktyka/03-odometriya` — чому робот не їде рівно
 - [ ] `praktyka/04-sensory` — покази, графік, поріг
-- [ ] ⭐ **сцена вашого варіанта**
+- [x] ⭐ **сцена вашого варіанта**
 - [ ] `praktyka/05-rehulyator` — від «якщо» до пропорційного
-- [ ] `praktyka/06-avtomat-staniv` — стани й переходи
+- [x] `praktyka/06-avtomat-staniv` — стани й переходи
 - [ ] ⭐ **відео 30 с: робот виконує частину місії**
 - [ ] `praktyka/07-vlasna-karta` — власне середовище й критерій успіху
 - [ ] `praktyka/08-zalizo` — Arduino в Tinkercad
